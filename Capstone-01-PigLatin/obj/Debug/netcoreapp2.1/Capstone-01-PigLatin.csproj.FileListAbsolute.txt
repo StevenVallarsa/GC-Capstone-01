@@ -1,0 +1,11 @@
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/bin/Debug/netcoreapp2.1/Capstone-01-PigLatin.deps.json
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/bin/Debug/netcoreapp2.1/Capstone-01-PigLatin.runtimeconfig.json
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/bin/Debug/netcoreapp2.1/Capstone-01-PigLatin.runtimeconfig.dev.json
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/bin/Debug/netcoreapp2.1/Capstone-01-PigLatin.dll
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/bin/Debug/netcoreapp2.1/Capstone-01-PigLatin.pdb
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/obj/Debug/netcoreapp2.1/Capstone-01-PigLatin.csprojAssemblyReference.cache
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/obj/Debug/netcoreapp2.1/Capstone-01-PigLatin.csproj.CoreCompileInputs.cache
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/obj/Debug/netcoreapp2.1/Capstone-01-PigLatin.AssemblyInfoInputs.cache
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/obj/Debug/netcoreapp2.1/Capstone-01-PigLatin.AssemblyInfo.cs
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/obj/Debug/netcoreapp2.1/Capstone-01-PigLatin.dll
+/Users/Steve/Projects/Capstone-01-PigLatin/Capstone-01-PigLatin/obj/Debug/netcoreapp2.1/Capstone-01-PigLatin.pdb
