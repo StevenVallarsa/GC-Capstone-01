@@ -36,10 +36,12 @@ namespace Capstone_01_PigLatin
                     output = "N/A";
                 }
 
+
+
                 // Pig Latin Method will return " " if there are no vowels
                 if (output == " ")
                 {
-                    Console.WriteLine("Oops. That can't be converted.\n");
+                    Console.WriteLine("Oops. That word can't be converted.\n");
                 }
                 else if (output == "N/A")
                 {
@@ -125,11 +127,13 @@ namespace Capstone_01_PigLatin
 
             foreach (char digit in input)
             {
-                if (char.IsDigit(digit))
+                if (!Char.IsLetter(digit))
                 {
                     return false;
                 }
+
             }
+
             return true;
         }
     }
